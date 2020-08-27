@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
-theme: jekyll-theme-mini
-# title: [The title of your site]
-# description: [A short description of your site's purpose]
+theme: jekyll-theme-minimal
+title: [马克学的个人网页]
+description: [Personal Research Website from Kexue Ma]
+logo: "./pics/profile.jpg"
