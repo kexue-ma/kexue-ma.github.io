@@ -25,6 +25,27 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kexue-ma/kexue-ma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 主持或参加科研项目情况
+
+1. 主持国家自然科学基金面上项目“细胞自噬在涡虫体型重塑中的作用机制”（No.31572267，项目经费62万元）。
+2. 参与国家自然科学基金项目“秦岭山脉淡水三肠目涡虫分类和区系研究”。
+3. 参与国家自然科学基金项目“云贵高原淡水涡虫生态学及进化生物学研究”。
+
+### 学术成果
+
+1. **Ma, K.**, Zhang, Y., Song, G., Wu, M., Chen, G., 2018. Identification of autophagy-related gene 7 and autophagic cell death in the planarian *Dugesia japonica*. Front. Physiol. 9, 1223. (**SCI 二区**)
+2. **Ma, K.X.**, Song, G.G., Wu, M., Zhang, H.C., Chen, G.W., Liu, D.Z., 2019. Identification of a potential tissue-specific biomarker cathepsin L-like gene from the planarian *Dugesia japonica*: Molecular cloning, characterization, and expression in response to heavy metal exposure. Ecotoxicol. Environ. Saf. 180: 73–79. (**SCI 二区**)
+3. Zhang H-C, **Ma K-X**, Yang Y-J, Shi C-Y, Chen G-W, Liu D-Z. 2019. CuZnSOD and MnSOD from freshwater planarian Dugesia japonica: cDNA cloning, mRNA expression and enzyme activity in response to environmental pollutants Aquatic Toxicol, 208: 12–19. (共同第一，**SCI 二区**)
+4. Zhang  H-C，**Ma K-X**，Yang Y-J，Shi C-Y，Chen G-W. 2018. Molecular cloning,   characterization, expression and enzyme activity of catalase from planarian Dugesia japonica in response to environmental pollutants   Ecotoxicol Environ Saf, 4 (165): 88–95. (共同第一, **SCI 二区**) 
+5. **Ma K**, Zhang H, Zhang Y, Song G, Wu M, Chen G. 2017. Identification of a hsp40 gene involved in planarian regeneration. Biologia, 72(11):1306–1313.
+6. **Ma K-X**, Chen G-W *, Shi C-Y, Cheng F-F, Dou H, Feng C-C, Liu D-Z. 2014. Molecular characterization of the glucose-regulated protein 78 (GRP78) gene in planarian *Dugesia japonica*. Comp Biochem Physiol B, 171: 12–17.
+7. **Ma K-X**, Chen G-W, Liu D-Z. 2012. cDNA cloning of heat shock protein 90 gene and protein expression pattern in response to heavy metal exposure and thermal stress in planarian Dugesia japonica. Mol Biol Rep, 39(6):7203–7210.
+8. **Ma K-X**, Chen G-W, Lou H and Fei L-N. 2009. Cloning and expression analysis of a heat shock protein 70 gene from planarian Dugesia japonica. Biologia, 64(5):1018–1024.
+ 
+
+### 往届毕业生概况
+1. 张玉梅，2016级研究生，获得研究生国家级奖学金和优秀毕业研究生。
+2. 宋鸽鸽，2017级研究生，获得研究生国家级奖学金和优秀毕业研究生，现在中科院基因所攻读博士学位。
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
