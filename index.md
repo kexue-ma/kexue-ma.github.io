@@ -28,6 +28,8 @@
 
 ### 学术成果
 
+代表性论文：
+
 1. **Ma, K.**, Zhang, Y., Song, G., Wu, M., Chen, G., 2018. Identification of autophagy-related gene 7 and autophagic cell death in the planarian *Dugesia japonica*. Front. Physiol. 9, 1223. (**SCI 二区**)
 2. **Ma, K.X.**, Song, G.G., Wu, M., Zhang, H.C., Chen, G.W., Liu, D.Z., 2019. Identification of a potential tissue-specific biomarker cathepsin L-like gene from the planarian *Dugesia japonica*: Molecular cloning, characterization, and expression in response to heavy metal exposure. Ecotoxicol. Environ. Saf. 180: 73–79. (**SCI 二区**)
 3. Zhang H-C, **Ma K-X**, Yang Y-J, Shi C-Y, Chen G-W, Liu D-Z. 2019. CuZnSOD and MnSOD from freshwater planarian Dugesia japonica: cDNA cloning, mRNA expression and enzyme activity in response to environmental pollutants Aquatic Toxicol, 208: 12–19. (共同第一，**SCI 二区**)
