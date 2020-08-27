@@ -33,7 +33,7 @@
 3. Zhang H-C, **Ma K-X**, Yang Y-J, Shi C-Y, Chen G-W, Liu D-Z. 2019. CuZnSOD and MnSOD from freshwater planarian Dugesia japonica: cDNA cloning, mRNA expression and enzyme activity in response to environmental pollutants Aquatic Toxicol, 208: 12–19. (共同第一，**SCI 二区**)
 4. Zhang  H-C，**Ma K-X**，Yang Y-J，Shi C-Y，Chen G-W. 2018. Molecular cloning,   characterization, expression and enzyme activity of catalase from planarian Dugesia japonica in response to environmental pollutants   Ecotoxicol Environ Saf, 4 (165): 88–95. (共同第一, **SCI 二区**) 
 5. **Ma K**, Zhang H, Zhang Y, Song G, Wu M, Chen G. 2017. Identification of a hsp40 gene involved in planarian regeneration. Biologia, 72(11):1306–1313.
-6. **Ma K-X**, Chen G-W *, Shi C-Y, Cheng F-F, Dou H, Feng C-C, Liu D-Z. 2014. Molecular characterization of the glucose-regulated protein 78 (GRP78) gene in planarian *Dugesia japonica*. Comp Biochem Physiol B, 171: 12–17.
+6. **Ma K-X**, Chen G-W \*, Shi C-Y, Cheng F-F, Dou H, Feng C-C, Liu D-Z. 2014. Molecular characterization of the glucose-regulated protein 78 (GRP78) gene in planarian *Dugesia japonica*. Comp Biochem Physiol B, 171: 12–17.
 7. **Ma K-X**, Chen G-W, Liu D-Z. 2012. cDNA cloning of heat shock protein 90 gene and protein expression pattern in response to heavy metal exposure and thermal stress in planarian Dugesia japonica. Mol Biol Rep, 39(6):7203–7210.
 8. **Ma K-X**, Chen G-W, Lou H and Fei L-N. 2009. Cloning and expression analysis of a heat shock protein 70 gene from planarian Dugesia japonica. Biologia, 64(5):1018–1024.
  
