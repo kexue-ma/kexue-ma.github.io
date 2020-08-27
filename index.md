@@ -26,9 +26,7 @@
 2. 参与国家自然科学基金项目“秦岭山脉淡水三肠目涡虫分类和区系研究”。
 3. 参与国家自然科学基金项目“云贵高原淡水涡虫生态学及进化生物学研究”。
 
-### 学术成果
-
-代表性论文：
+### 代表性论文
 
 1. **Ma, K.**, Zhang, Y., Song, G., Wu, M., Chen, G., 2018. Identification of autophagy-related gene 7 and autophagic cell death in the planarian *Dugesia japonica*. Front. Physiol. 9, 1223. (**SCI 二区**)
 2. **Ma, K.X.**, Song, G.G., Wu, M., Zhang, H.C., Chen, G.W., Liu, D.Z., 2019. Identification of a potential tissue-specific biomarker cathepsin L-like gene from the planarian *Dugesia japonica*: Molecular cloning, characterization, and expression in response to heavy metal exposure. Ecotoxicol. Environ. Saf. 180: 73–79. (**SCI 二区**)
